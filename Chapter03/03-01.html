@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Counter</title>
+</head>
+<body>
+<div id="counter">0</div>
+<button id="increase">+</button>
+<butto id="decrease">-</butto>
+<script>
+    // 오류가 발생하는 시점
+    const $counter = document.getElementById('counter-x');
+    const $increase = document.getElementById('increase');
+    const $decrease = document.getElementById('decrease');
+
+    let num = 0;
+    const render = function () {
+        $counter.innerHTML = num;
+    };
+
+    $increase.onclick = function () {
+        num++;
+        console.log('increase 버튼 클릭', num);
+        render();
+    };
+
+    $decrease.onclick = function () {
+        num--;
+        console.log('decrease 버튼 클릭', num);
+        render();
+    };
+</script>
+
+</body>
+</html>
