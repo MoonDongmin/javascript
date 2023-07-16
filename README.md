@@ -8,6 +8,7 @@
     <a href="https://www.notion.so/moondongmin/Chapter-03-4b10459bf4414f208d58498a14deb77d", target="_blank">Chapter 03. 자바스트립트 개발 환경과 실행 방법</a><br>
     <a href="https://www.notion.so/moondongmin/Chapter-04-df58fd3815ad4eae99c073e82bd93733", target="_blank">Chapter 04. 변수</a><br>
     <a href="https://www.notion.so/moondongmin/Chapter-05-6dbfed6979b84cb0863c8d627814c247", target="_blank">Chapter 05. 표현식과 문</a><br>
+    <a href="https://www.notion.so/moondongmin/Chapter-06-a44013bed5bc4f8882adb11e845ecf15", target="_blank">Chapter 06. 데이터 타입</a><br>
      
      
     
