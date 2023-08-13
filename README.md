@@ -38,3 +38,7 @@
 [Chapter 18. 함수와 일급 객체](https://www.notion.so/Chapter-18-ae0c6bd5d2f84e9183d8607a726d23b4?pvs=21)
 
 [Chapter 19. 프로토타입 - 자세히 봐야할듯..](https://www.notion.so/Chapter-19-ba321af130f847068375b75bc5412fbc?pvs=21)
+
+[Chapter 20. strict mode](https://www.notion.so/moondongmin/Chapter-20-strict-mode-393cec47803740dcb15c1cf420a963c1)
+
+[Chapter 21. 빌트인 객체](https://www.notion.so/moondongmin/Chapter-21-95dc3281f292457087a56a635496064e)
