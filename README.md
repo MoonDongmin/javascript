@@ -42,3 +42,5 @@
 [Chapter 20. strict mode](https://www.notion.so/moondongmin/Chapter-20-strict-mode-393cec47803740dcb15c1cf420a963c1)
 
 [Chapter 21. 빌트인 객체](https://www.notion.so/moondongmin/Chapter-21-95dc3281f292457087a56a635496064e)
+
+[Chapter 22. this](https://www.notion.so/moondongmin/Chapter-22-this-8e9d9ddcedcd4459a3e48acf72571309)
