@@ -44,3 +44,5 @@
 [Chapter 21. 빌트인 객체](https://www.notion.so/moondongmin/Chapter-21-95dc3281f292457087a56a635496064e)
 
 [Chapter 22. this](https://www.notion.so/moondongmin/Chapter-22-this-8e9d9ddcedcd4459a3e48acf72571309)
+
+[Chapter 23. 실행 컨텍스트](https://www.notion.so/moondongmin/Chapter-23-d7e86f0ff2154ef580031a202988684c)
