@@ -1,0 +1,22 @@
+function Person(name, age) {
+    this.name = name;
+    let _age = age;
+}
+
+// 프로토 타입 메서드
+// @ts-ignore
+Person.prototype.sayHi() = function () {
+    // Person 생성자 함수의 지역 변수 _age를 참조할 수 없음
+    // @ts-ignore
+    console.log(`Hi! My name is ${this.name}. I am ${_age}.`);
+};
+
+const me = new Person('Moon', 24);
+me.sayHi();
+console.log(me.name);
+console.log(me._age);
+
+const you = new Person('Kim', 20);
+you.sayHi();
+console.log(you.name);
+console.log(you._age);
