@@ -46,3 +46,5 @@
 [Chapter 22. this](https://www.notion.so/moondongmin/Chapter-22-this-8e9d9ddcedcd4459a3e48acf72571309)
 
 [Chapter 23. 실행 컨텍스트](https://www.notion.so/moondongmin/Chapter-23-d7e86f0ff2154ef580031a202988684c)
+
+[Chapter 24. 클로저](https://www.notion.so/moondongmin/Chapter24-a2f6abaf43f14b02889efee9fa6cb113)
