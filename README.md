@@ -50,3 +50,5 @@
 [Chapter 23. 실행 컨텍스트](https://www.notion.so/moondongmin/Chapter-23-d7e86f0ff2154ef580031a202988684c)
 
 [Chapter 24. 클로저](https://www.notion.so/moondongmin/Chapter24-a2f6abaf43f14b02889efee9fa6cb113)
+
+[Chapter 25. 클래스](https://www.notion.so/moondongmin/Chapter25-6d6748cd03a44dee9827ca21fa2a8cb2)
