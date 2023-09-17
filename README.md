@@ -52,3 +52,5 @@
 [Chapter 24. 클로저](https://www.notion.so/moondongmin/Chapter24-a2f6abaf43f14b02889efee9fa6cb113)
 
 [Chapter 25. 클래스](https://www.notion.so/moondongmin/Chapter25-6d6748cd03a44dee9827ca21fa2a8cb2)
+
+[Chapter26. ES6 함수의 추가 기능](https://www.notion.so/moondongmin/Chapter26-ES6-926645ac4ee14b38a8502143172f510c)
