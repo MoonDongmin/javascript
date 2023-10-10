@@ -54,3 +54,10 @@
 [Chapter 25. 클래스](https://www.notion.so/moondongmin/Chapter25-6d6748cd03a44dee9827ca21fa2a8cb2)
 
 [Chapter26. ES6 함수의 추가 기능](https://www.notion.so/moondongmin/Chapter26-ES6-926645ac4ee14b38a8502143172f510c)
+
+[Chapter27. 배열](https://www.notion.so/moondongmin/Chapter27-234650bf3478451189fe6ba4df421850)
+
+[Chapter28. Number](https://www.notion.so/moondongmin/Chapter28-Number-2ba3614203db4443bd577e595207a850)
+
+[Chapter31. RegExp](https://www.notion.so/moondongmin/Chapter31-RegExp-2a371dd67ceb4a5a914be7ab7ecb2aa5)
+
