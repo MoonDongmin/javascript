@@ -61,3 +61,6 @@
 
 [Chapter31. RegExp](https://www.notion.so/moondongmin/Chapter31-RegExp-2a371dd67ceb4a5a914be7ab7ecb2aa5)
 
+[Chapter32. String](https://www.notion.so/moondongmin/Chapter-32-String-bca8edc491cf4565bd3feaaca2593b3b)
+
+[Chapter33. 7번째 데이터 타입 Symbol](https://www.notion.so/moondongmin/Chapter-33-7-Symbol-bc2936547dbb4fc7ab590287a0a46eb3)
