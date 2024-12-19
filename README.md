@@ -64,3 +64,13 @@
 [Chapter32. String](https://www.notion.so/moondongmin/Chapter-32-String-bca8edc491cf4565bd3feaaca2593b3b)
 
 [Chapter33. 7번째 데이터 타입 Symbol](https://www.notion.so/moondongmin/Chapter-33-7-Symbol-bc2936547dbb4fc7ab590287a0a46eb3)
+
+<hr>
+
+# 혼자 공부하는 JS
+
+[Object](https://moondongmin.notion.site/Object-161357c44e5680e984e8d421b1982441?pvs=4)
+
+[프로퍼티 어트리뷰트](https://moondongmin.notion.site/161357c44e56805da0d2ef7451daf695?pvs=4)
+
+[JSON](https://moondongmin.notion.site/JSON-161357c44e568097bdbef4a299043c6a?pvs=4)
