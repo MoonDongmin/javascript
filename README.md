@@ -74,3 +74,9 @@
 [프로퍼티 어트리뷰트](https://moondongmin.notion.site/161357c44e56805da0d2ef7451daf695?pvs=4)
 
 [JSON](https://moondongmin.notion.site/JSON-161357c44e568097bdbef4a299043c6a?pvs=4)
+
+[2, 8, 16진법과 비트 연산자](https://moondongmin.notion.site/2-8-16-16c357c44e5680ac8825ea083d341237?pvs=4)
+
+[BigInt](https://www.notion.so/BigInt-16c357c44e5680cfaa09e1356dd081cd?pvs=21)
+
+[Symbol](https://www.notion.so/Symbol-16c357c44e56808aa27cc284f49fae22?pvs=21)
